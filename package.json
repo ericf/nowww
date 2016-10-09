@@ -1,0 +1,19 @@
+{
+  "name": "nowww",
+  "version": "1.0.0",
+  "description": "A simple Node.js server that responds to `www.` requests with a redirect to the same URL without the pointless `www.` subdomain.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericf/nowww.git"
+  },
+  "author": "Eric Ferraiuolo <edf@ericf.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericf/nowww/issues"
+  },
+  "homepage": "https://github.com/ericf/nowww#readme"
+}
